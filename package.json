@@ -1,7 +1,7 @@
 {
-  "name": "@ali/skyline",
+  "name": "@jacksontian/skyline",
   "version": "1.0.0",
-  "description": "",
+  "description": "Base Lexer & Parser",
   "main": "index.js",
   "directories": {
     "lib": "lib"
